@@ -20,6 +20,10 @@ The staging area provides the list of changes added to the staging area. So we c
 
 -----
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+Branches could sometimes ‘compile’ the previous versions/branches/nodes as one, making it easier to keep track of.
 
 
 
