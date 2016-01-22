@@ -12,5 +12,33 @@ It acts as a workspace before deciding on the commit officially, thus saving any
 
 -----
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+
+The staging area provides the list of changes added to the staging area. So we can use that to check if the current staging area is worthy of a logical commit.
+
+
+-----
+
+
+
+
+-----
+
+
+
+
+-----
+
+
+
+
+-----
+
+
+
+
+-----
+
 
 
