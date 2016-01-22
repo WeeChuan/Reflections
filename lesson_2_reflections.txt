@@ -29,7 +29,10 @@ Branches could sometimes ‘compile’ the previous versions/branches/nodes as o
 
 -----
 
+How do the diagrams help you visualize the branch structure?
 
+
+The hierarchy of the branches. 
 
 
 -----
